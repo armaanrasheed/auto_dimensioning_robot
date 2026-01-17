@@ -18,8 +18,8 @@ The robotic system uses the following key components:
 ![web cam top view](https://drive.google.com/uc?export=view&id=1jasVUBIwGUUQAcynUYVpZrb-sE6_ws1O)
 - **Description:** The top-down view captured by the webcam assists the OpenCV module in detecting part boundaries and computing key dimensions.
 
-### Demo Video 
-![working demo][https://www.youtube.com/watch?v=MB9A7U8ksmc]
+### Demo Video (click)
+[![Working Demo](https://img.youtube.com/vi/MB9A7U8ksmc/maxresdefault.jpg)](https://www.youtube.com/watch?v=MB9A7U8ksmc)
 
 ## 📂 Project Structure
 The project is organized into directories that group related files for rotation tracking and web server communication.
